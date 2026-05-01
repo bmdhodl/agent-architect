@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Background plate -->
+  <rect width="256" height="256" fill="#0B0F14"/>
+
+  <!-- Subtle blueprint grid -->
+  <g stroke="#1B2533" stroke-width="1">
+    <line x1="0"   y1="64"  x2="256" y2="64"/>
+    <line x1="0"   y1="128" x2="256" y2="128"/>
+    <line x1="0"   y1="192" x2="256" y2="192"/>
+    <line x1="64"  y1="0"   x2="64"  y2="256"/>
+    <line x1="128" y1="0"   x2="128" y2="256"/>
+    <line x1="192" y1="0"   x2="192" y2="256"/>
+  </g>
+
+  <!-- Stylized "A" architect's compass mark -->
+  <g fill="none" stroke="#FF7A1A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left leg -->
+    <line x1="80"  y1="200" x2="128" y2="64"/>
+    <!-- Right leg -->
+    <line x1="176" y1="200" x2="128" y2="64"/>
+    <!-- Crossbar -->
+    <line x1="100" y1="144" x2="156" y2="144"/>
+  </g>
+
+  <!-- Pivot dot at apex -->
+  <circle cx="128" cy="64" r="9" fill="#FF7A1A"/>
+
+  <!-- Foundation marks -->
+  <rect x="68"  y="206" width="24" height="6" fill="#FF7A1A"/>
+  <rect x="164" y="206" width="24" height="6" fill="#FF7A1A"/>
+</svg>

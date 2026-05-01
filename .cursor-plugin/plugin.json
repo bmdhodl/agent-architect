@@ -10,6 +10,7 @@
   "publisher": "bmdpat",
   "homepage": "https://bmdpat.com",
   "license": "MIT",
+  "logo": "assets/logo.svg",
   "keywords": [
     "agent-scoping",
     "ai-estimation",
