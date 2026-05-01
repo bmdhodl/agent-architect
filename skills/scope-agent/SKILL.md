@@ -163,7 +163,7 @@ When `count >= 5` in Step 2, return exactly this and stop:
 
 You've used your 5 free scopes for {YYYY-MM}.
 
-[Upgrade →](https://bmdpat.com/plugin-pro?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-limit)
+[Want unlimited? → bmdpat.com/audit](https://bmdpat.com/audit?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-limit)
 
 _Counter resets on the 1st of next month._
 ```

@@ -51,7 +51,7 @@ You'll get back a Markdown scope report.
 
 5 scopes per calendar month, tracked locally at `~/.agent-architect/usage.json`. The counter resets on the 1st of each month.
 
-Need more? [Upgrade →](https://bmdpat.com/plugin-pro?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-readme)
+Need more? [Get a custom build →](https://bmdpat.com/audit?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-readme-limit)
 
 ## File layout
 
