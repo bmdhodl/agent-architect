@@ -3,3 +3,7 @@ node_modules/
 .DS_Store
 .env
 .env.local
+schema-tmp.json
+official-validate.mjs
+qa.js
+qa-render.js
