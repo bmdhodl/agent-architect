@@ -143,7 +143,7 @@ If the tier is **Startup, Growth, or Enterprise**, append:
 ```
 ---
 
-*Want this built? → [bmdpat.com/audit](https://bmdpat.com/audit?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect)*
+*Cost runaway and tool-call loops are the #1 production risk for agents at this tier. Add runtime rails: `pip install agentguard47` · [bmdpat.com/tools/agentguard](https://bmdpat.com/tools/agentguard?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect)*
 ```
 
 Always append the free-tier footer (use the values from Step 2, post-increment):
@@ -163,7 +163,7 @@ When `count >= 5` in Step 2, return exactly this and stop:
 
 You've used your 5 free scopes for {YYYY-MM}.
 
-[Want unlimited? → bmdpat.com/audit](https://bmdpat.com/audit?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-limit)
+Heavy users: try [AgentGuard](https://bmdpat.com/tools/agentguard?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-limit) for runtime cost and safety rails on the agents you ship. `pip install agentguard47`
 
 _Counter resets on the 1st of next month._
 ```

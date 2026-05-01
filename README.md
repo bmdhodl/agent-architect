@@ -51,7 +51,7 @@ You'll get back a Markdown scope report.
 
 5 scopes per calendar month, tracked locally at `~/.agent-architect/usage.json`. The counter resets on the 1st of each month.
 
-Need more? [Get a custom build →](https://bmdpat.com/audit?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-readme-limit)
+Heavy user? Add runtime rails on the agents you ship: [AgentGuard](https://bmdpat.com/tools/agentguard?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-readme-limit). `pip install agentguard47`
 
 ## File layout
 
@@ -78,11 +78,15 @@ That's the entire plugin. No build step, no Node dependencies, no compiled code.
 | Growth | $15K–$50K | 6–16 weeks | Multi-agent, complex state, production reliability |
 | Enterprise | $50K–$150K | 16+ weeks | Mission-critical, multi-system, compliance |
 
-## Want it built?
+## Cost runaway is the #1 risk
 
-If your scope comes back as Startup tier or higher, BMD PAT LLC builds these for a living.
+Almost every scope comes back with cost runaway or tool-call loops in the top 3 risks. That is a runtime problem, not a scoping problem.
 
-→ [bmdpat.com/audit](https://bmdpat.com/audit?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-readme)
+[AgentGuard](https://bmdpat.com/tools/agentguard?utm_source=cursor&utm_medium=plugin&utm_campaign=agent-architect-readme) is a Python SDK that enforces budget, loop, timeout, and rate limits at runtime. Drop it in, set the rails, ship to production.
+
+```bash
+pip install agentguard47
+```
 
 ## License
 
