@@ -1,0 +1,28 @@
+{
+  "name": "agent-architect",
+  "displayName": "Agent Architect",
+  "description": "Scope and cost-estimate any AI agent build in seconds — get a tier, cost breakdown, architecture, timeline, and risks from a plain English description.",
+  "version": "0.1.0",
+  "author": {
+    "name": "BMD PAT LLC",
+    "email": "patrick@bmdpat.com"
+  },
+  "publisher": "bmdpat",
+  "homepage": "https://bmdpat.com",
+  "license": "MIT",
+  "keywords": [
+    "agent-scoping",
+    "ai-estimation",
+    "cost-estimation",
+    "architecture",
+    "consulting"
+  ],
+  "category": "productivity",
+  "tags": [
+    "scoping",
+    "estimation",
+    "agents",
+    "consulting"
+  ],
+  "skills": "./skills/"
+}
